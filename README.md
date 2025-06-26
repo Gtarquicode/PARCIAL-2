@@ -113,7 +113,7 @@ También se manejan:
 
 ## 📸 Capturas de pantalla (Ejemplo de uso)
 
-**Registro médico
+**Registro médico**
 
 ![registro medico](https://github.com/user-attachments/assets/731c62ee-9841-4752-9d4e-ec32cef1c21f)
 
