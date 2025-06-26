@@ -111,9 +111,35 @@ También se manejan:
 
 ---
 
-## 📸 Capturas de pantalla
+## 📸 Capturas de pantalla (Ejemplo de uso)
 
+**Registro médico
 
+![registro medico](https://github.com/user-attachments/assets/731c62ee-9841-4752-9d4e-ec32cef1c21f)
+
+**Registro paciente**
+
+![Nuevo paciente](https://github.com/user-attachments/assets/27f1ba34-061d-4073-9f2a-8da8f85ca7b2)
+
+**Consulta 1**
+
+![consulta 1](https://github.com/user-attachments/assets/d86cbbc7-a82a-4a9b-944f-951883b856fb)
+
+**Consulta 2**
+
+![consulta 2](https://github.com/user-attachments/assets/64f543f3-3f3a-4bfd-8119-14422489f2a9)
+
+**Historial del medico**
+
+![historial del medico](https://github.com/user-attachments/assets/b28525c9-81ae-4f6a-a9fd-dd5bc21e6ee1)
+
+**Historial de los pacientes**
+
+![historial de los pacientes](https://github.com/user-attachments/assets/8849627e-73c8-4713-aba5-253488b7babd)
+
+**Error**
+
+![image](https://github.com/user-attachments/assets/55b7455f-00a8-4c2c-a549-b320307356cc)
 
 ---
 
